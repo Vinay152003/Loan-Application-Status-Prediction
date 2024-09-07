@@ -63,4 +63,6 @@ These parameters contributed to achieving the best balance of performance on the
 ---
 **5. Conclusion**
 
-The model successfully predicted loan application statuses with an accuracy of 82% on the validation set. Through proper data cleaning, feature encoding, and hyperparameter tuning, a RandomForestClassifier was optimized for this task. The model is ready for deployment to predict future loan statuses with consistent performance.
+The RandomForest model achieved an accuracy of 82% on the validation set. By utilizing effective data cleaning, feature encoding, and hyperparameter tuning, the model was optimized for the task. Predictions were made on the test dataset, and the results were uploaded as `predictions.csv`. 
+
+Additionally, the project code, including the model training and evaluation steps, was uploaded using Jupyter Notebook and VS Code. This report provides a comprehensive overview of the model’s development and performance.
